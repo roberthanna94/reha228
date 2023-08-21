@@ -1,0 +1,8 @@
+2023-08-21 09:15:45 [INFO] Question: Which corps won the most championships?
+2023-08-21 09:15:45 [INFO] Running PandasAI with openai LLM...
+2023-08-21 09:15:45 [INFO] Prompt ID: 7f9a88db-74ff-403e-a092-5956cc7cc48e
+2023-08-21 09:15:45 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-21 09:16:19 [INFO] Question: Which corps won in 2018?
+2023-08-21 09:16:19 [INFO] Running PandasAI with openai LLM...
+2023-08-21 09:16:19 [INFO] Prompt ID: f05dbab7-dc0d-4a89-8067-12dad1ac27ce
+2023-08-21 09:16:19 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False

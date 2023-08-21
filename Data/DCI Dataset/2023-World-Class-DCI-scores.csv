@@ -1,0 +1,422 @@
+Date,Location,Rank,Score,Corps
+2023-06-28,"Rockford, MI",1st,71.3,Phantom Regiment
+2023-06-28,"Rockford, MI",2nd,69.9,Blue Stars
+2023-06-28,"Rockford, MI",3rd,66.75,Troopers
+2023-06-28,"Rockford, MI",4th,65.3,Colts
+2023-06-30,"Muncie, IN",1st,75.0,Carolina Crown
+2023-06-30,"Muncie, IN",2nd,72.55,Phantom Regiment
+2023-06-30,"Muncie, IN",3rd,70.45,Blue Stars
+2023-06-30,"Muncie, IN",4th,70.1,The Cavaliers
+2023-06-30,"Muncie, IN",5th,66.5,Troopers
+2023-06-30,"Muncie, IN",6th,65.85,Colts
+2023-07-01,"Lynn, MA",1st,77.15,Boston Crusaders
+2023-07-01,"Lynn, MA",2nd,73.75,The Cadets
+2023-07-01,"Madison, WI",1st,70.6,Blue Stars
+2023-07-01,"Madison, WI",2nd,67.35,Troopers
+2023-07-01,"Madison, WI",3rd,66.2,Colts
+2023-07-01,"Madison, WI",4th,64.8,Madison Scouts
+2023-07-01,"Vista, CA",1st,77.3,Blue Devils
+2023-07-01,"Vista, CA",2nd,71.2,Mandarins
+2023-07-01,"Vista, CA",3rd,65.55,The Academy
+2023-07-01,"Vista, CA",4th,64.05,Pacific Crest
+2023-07-02,"Lisle, IL",1st,77.95,Carolina Crown
+2023-07-02,"Lisle, IL",2nd,74.0,Phantom Regiment
+2023-07-02,"Lisle, IL",3rd,72.05,The Cavaliers
+2023-07-02,"Lisle, IL",4th,69.25,Colts
+2023-07-02,"Lisle, IL",5th,66.95,Madison Scouts
+2023-07-02,"Quincy, MA",1st,78.55,Boston Crusaders
+2023-07-02,"Quincy, MA",2nd,74.75,The Cadets
+2023-07-02,"San Bernardino, CA",1st,79.15,Blue Devils
+2023-07-02,"San Bernardino, CA",2nd,73.2,Mandarins
+2023-07-02,"San Bernardino, CA",3rd,65.35,The Academy
+2023-07-02,"San Bernardino, CA",4th,64.15,Pacific Crest
+2023-07-03,"Cedarburg, WI",1st,76.6,Phantom Regiment
+2023-07-03,"Cedarburg, WI",2nd,74.35,Blue Stars
+2023-07-03,"Cedarburg, WI",3rd,73.5,The Cavaliers
+2023-07-03,"Cedarburg, WI",4th,72.55,Troopers
+2023-07-03,"Cedarburg, WI",5th,69.7,Madison Scouts
+2023-07-03,"Mesa, AZ",1st,80.1,Blue Devils
+2023-07-03,"Mesa, AZ",2nd,74.05,Mandarins
+2023-07-03,"Mesa, AZ",3rd,66.9,The Academy
+2023-07-05,"Mason, OH",1st,80.15,Carolina Crown
+2023-07-05,"Mason, OH",2nd,79.85,Bluecoats
+2023-07-05,"Mason, OH",3rd,79.75,Boston Crusaders
+2023-07-05,"Mason, OH",4th,72.05,Troopers
+2023-07-05,"Mason, OH",5th,66.25,Music City
+2023-07-07,"DeKalb, IL",1st,81.3,Boston Crusaders
+2023-07-07,"DeKalb, IL",2nd,78.45,Phantom Regiment
+2023-07-07,"DeKalb, IL",3rd,76.65,Blue Stars
+2023-07-07,"DeKalb, IL",4th,76.35,The Cavaliers
+2023-07-07,"DeKalb, IL",5th,74.6,Troopers
+2023-07-07,"DeKalb, IL",6th,73.65,Colts
+2023-07-07,"DeKalb, IL",7th,70.9,Madison Scouts
+2023-07-07,"DeKalb, IL",8th,70.65,Crossmen
+2023-07-07,"DeKalb, IL",9th,65.4,Genesis
+2023-07-07,"Fresno, CA",1st,81.9,Blue Devils
+2023-07-07,"Fresno, CA",2nd,75.6,Mandarins
+2023-07-07,"Fresno, CA",3rd,71.9,Blue Knights
+2023-07-07,"Fresno, CA",4th,68.0,Pacific Crest
+2023-07-08,"Lexington, SC",1st,81.7,Carolina Crown
+2023-07-08,"Lexington, SC",2nd,81.25,Bluecoats
+2023-07-08,"Lexington, SC",3rd,76.45,The Cadets
+2023-07-08,"Lexington, SC",4th,70.5,Spirit of Atlanta
+2023-07-08,"Lexington, SC",5th,68.0,Music City
+2023-07-08,"Pasadena, CA",1st,84.1,Blue Devils
+2023-07-08,"Pasadena, CA",2nd,78.05,Mandarins
+2023-07-08,"Pasadena, CA",3rd,72.45,Blue Knights
+2023-07-08,"Pasadena, CA",4th,71.1,Pacific Crest
+2023-07-08,"Pasadena, CA",4th,71.1,The Academy
+2023-07-08,"Whitewater, WI",1st,82.55,Boston Crusaders
+2023-07-08,"Whitewater, WI",2nd,80.0,Phantom Regiment
+2023-07-08,"Whitewater, WI",3rd,77.65,The Cavaliers
+2023-07-08,"Whitewater, WI",4th,77.05,Blue Stars
+2023-07-08,"Whitewater, WI",5th,75.95,Troopers
+2023-07-08,"Whitewater, WI",6th,75.1,Colts
+2023-07-08,"Whitewater, WI",7th,71.85,Madison Scouts
+2023-07-08,"Whitewater, WI",8th,70.95,Crossmen
+2023-07-08,"Whitewater, WI",9th,66.45,Genesis
+2023-07-09,"La Crosse, WI",1st,83.85,Boston Crusaders
+2023-07-09,"La Crosse, WI",2nd,81.4,Phantom Regiment
+2023-07-09,"La Crosse, WI",3rd,78.3,Blue Stars
+2023-07-09,"La Crosse, WI",4th,77.1,Colts
+2023-07-09,"La Crosse, WI",5th,76.8,Troopers
+2023-07-09,"La Crosse, WI",6th,72.45,Madison Scouts
+2023-07-09,"La Crosse, WI",7th,71.95,Crossmen
+2023-07-09,"La Crosse, WI",8th,67.25,Genesis
+2023-07-09,"Macon, GA",1st,83.1,Carolina Crown
+2023-07-09,"Macon, GA",2nd,82.7,Bluecoats
+2023-07-09,"Macon, GA",3rd,77.45,The Cadets
+2023-07-09,"Macon, GA",4th,72.15,Spirit of Atlanta
+2023-07-09,"Macon, GA",5th,68.35,Music City
+2023-07-09,"Stanford, CA",1st,85.15,Blue Devils
+2023-07-09,"Stanford, CA",2nd,79.2,Mandarins
+2023-07-09,"Stanford, CA",3rd,73.525,Blue Knights
+2023-07-09,"Stanford, CA",4th,72.35,Pacific Crest
+2023-07-09,"Stanford, CA",5th,72.0,The Academy
+2023-07-10,"Roseville, CA",1st,85.8,Blue Devils
+2023-07-10,"Roseville, CA",2nd,80.65,Mandarins
+2023-07-10,"Roseville, CA",3rd,74.65,Blue Knights
+2023-07-10,"Roseville, CA",4th,73.65,Pacific Crest
+2023-07-10,"Roseville, CA",5th,72.5,The Academy
+2023-07-11,"Douglasville, GA",1st,84.9,Bluecoats
+2023-07-11,"Douglasville, GA",2nd,79.6,The Cadets
+2023-07-11,"Douglasville, GA",3rd,73.65,Spirit of Atlanta
+2023-07-11,"Douglasville, GA",4th,71.8,Music City
+2023-07-11,"Mankato, MN",1st,78.4,Blue Stars
+2023-07-11,"Mankato, MN",2nd,73.2,Madison Scouts
+2023-07-11,"Mankato, MN",3rd,73.05,Crossmen
+2023-07-11,"Mankato, MN",4th,67.65,Genesis
+2023-07-12,"Ankeny, IA",1st,84.6,Boston Crusaders
+2023-07-12,"Ankeny, IA",2nd,82.2,Phantom Regiment
+2023-07-12,"Ankeny, IA",3rd,77.6,Troopers
+2023-07-12,"Ankeny, IA",4th,77.25,Colts
+2023-07-12,"Eau Claire, WI",1st,79.95,Blue Stars
+2023-07-12,"Eau Claire, WI",2nd,74.9,Madison Scouts
+2023-07-12,"Eau Claire, WI",3rd,74.8,Crossmen
+2023-07-12,"Eau Claire, WI",4th,68.8,Genesis
+2023-07-12,"Salt Lake City, UT",1st,87.35,Blue Devils
+2023-07-12,"Salt Lake City, UT",2nd,82.25,Mandarins
+2023-07-12,"Salt Lake City, UT",3rd,76.25,Pacific Crest
+2023-07-12,"Salt Lake City, UT",4th,74.7,Blue Knights
+2023-07-12,"Salt Lake City, UT",5th,73.9,The Academy
+2023-07-12,"Salt Lake City, UT",6th,62.8,Seattle Cascades
+2023-07-13,"Tupelo, MS",1st,81.0,The Cadets
+2023-07-13,"Tupelo, MS",2nd,79.4,The Cavaliers
+2023-07-13,"Tupelo, MS",3rd,74.35,Spirit of Atlanta
+2023-07-13,"Tupelo, MS",4th,72.7,Music City
+2023-07-14,"Cheyenne, WY",1st,79.1,Troopers
+2023-07-14,"Cheyenne, WY",2nd,76.9,Pacific Crest
+2023-07-14,"Cheyenne, WY",3rd,74.0,The Academy
+2023-07-14,"Cheyenne, WY",4th,64.85,Seattle Cascades
+2023-07-14,"Dubuque, IA",1st,83.25,Phantom Regiment
+2023-07-14,"Dubuque, IA",2nd,80.85,Blue Stars
+2023-07-14,"Dubuque, IA",3rd,79.15,Colts
+2023-07-14,"Dubuque, IA",4th,75.4,Crossmen
+2023-07-14,"Dubuque, IA",5th,74.95,Madison Scouts
+2023-07-14,"Dubuque, IA",6th,70.8,Genesis
+2023-07-15,"Fort Collins, CO",1st,89.6,Blue Devils
+2023-07-15,"Fort Collins, CO",2nd,88.1,Boston Crusaders
+2023-07-15,"Fort Collins, CO",3rd,83.85,Mandarins
+2023-07-15,"Fort Collins, CO",4th,80.9,Troopers
+2023-07-15,"Fort Collins, CO",5th,78.15,Pacific Crest
+2023-07-15,"Fort Collins, CO",6th,76.15,Blue Knights
+2023-07-15,"Fort Collins, CO",7th,75.45,The Academy
+2023-07-15,"Fort Collins, CO",8th,65.3,Seattle Cascades
+2023-07-15,"Little Rock, AR",1st,86.7,Bluecoats
+2023-07-15,"Little Rock, AR",2nd,86.2,Carolina Crown
+2023-07-15,"Little Rock, AR",3rd,82.6,The Cadets
+2023-07-15,"Little Rock, AR",4th,81.05,The Cavaliers
+2023-07-15,"Little Rock, AR",5th,75.3,Spirit of Atlanta
+2023-07-15,"Little Rock, AR",6th,73.1,Music City
+2023-07-15,"Rockford, IL",1st,83.25,Phantom Regiment
+2023-07-15,"Rockford, IL",2nd,80.9,Blue Stars
+2023-07-15,"Rockford, IL",3rd,79.65,Colts
+2023-07-15,"Rockford, IL",4th,75.9,Crossmen
+2023-07-15,"Rockford, IL",5th,75.05,Madison Scouts
+2023-07-15,"Rockford, IL",6th,70.05,Genesis
+2023-07-17,"Canyon, TX",1st,84.6,Mandarins
+2023-07-17,"Canyon, TX",2nd,80.9,Troopers
+2023-07-17,"Canyon, TX",3rd,77.55,Blue Knights
+2023-07-17,"Canyon, TX",4th,77.5,Pacific Crest
+2023-07-17,"Canyon, TX",5th,75.95,The Academy
+2023-07-17,"Canyon, TX",6th,65.4,Seattle Cascades
+2023-07-17,"Olathe, KS",1st,83.9,Phantom Regiment
+2023-07-17,"Olathe, KS",2nd,81.15,Blue Stars
+2023-07-17,"Olathe, KS",3rd,79.45,Colts
+2023-07-17,"Olathe, KS",4th,74.8,Madison Scouts
+2023-07-17,"Olathe, KS",5th,71.4,Genesis
+2023-07-18,"Abilene, TX",1st,85.85,Mandarins
+2023-07-18,"Abilene, TX",2nd,82.95,The Cavaliers
+2023-07-18,"Abilene, TX",3rd,79.25,Pacific Crest
+2023-07-18,"Abilene, TX",4th,76.9,Spirit of Atlanta
+2023-07-18,"Abilene, TX",5th,75.45,The Academy
+2023-07-18,"Abilene, TX",6th,74.65,Music City
+2023-07-18,"Abilene, TX",7th,64.75,Seattle Cascades
+2023-07-18,"Broken Arrow, OK",1st,90.45,Blue Devils
+2023-07-18,"Broken Arrow, OK",2nd,88.9,Boston Crusaders
+2023-07-18,"Broken Arrow, OK",3rd,88.65,Bluecoats
+2023-07-18,"Broken Arrow, OK",4th,88.1,Carolina Crown
+2023-07-18,"Broken Arrow, OK",5th,84.8,The Cadets
+2023-07-18,"Broken Arrow, OK",6th,83.25,Blue Stars
+2023-07-20,"Austin, TX",1st,86.4,The Cadets
+2023-07-20,"Austin, TX",2nd,83.3,The Cavaliers
+2023-07-20,"Austin, TX",3rd,79.55,Blue Knights
+2023-07-20,"Austin, TX",4th,77.25,Spirit of Atlanta
+2023-07-20,"Austin, TX",5th,76.75,The Academy
+2023-07-20,"Austin, TX",6th,75.8,Music City
+2023-07-20,"Austin, TX",7th,72.7,Genesis
+2023-07-20,"Austin, TX",8th,65.35,Seattle Cascades
+2023-07-20,"Denton, TX",1st,90.65,Boston Crusaders
+2023-07-20,"Denton, TX",2nd,89.55,Carolina Crown
+2023-07-20,"Denton, TX",3rd,89.45,Bluecoats
+2023-07-20,"Denton, TX",4th,86.35,Phantom Regiment
+2023-07-20,"Denton, TX",5th,79.85,Pacific Crest
+2023-07-20,"Denton, TX",6th,77.15,Crossmen
+2023-07-20,"Denton, TX",6th,77.15,Madison Scouts
+2023-07-21,"Dover, PA",1st,68.0,Jersey Surf
+2023-07-21,"Houston, TX",1st,91.05,Blue Devils
+2023-07-21,"Houston, TX",2nd,89.45,Carolina Crown
+2023-07-21,"Houston, TX",3rd,89.35,Bluecoats
+2023-07-21,"Houston, TX",4th,86.35,Mandarins
+2023-07-21,"Houston, TX",5th,84.75,The Cavaliers
+2023-07-21,"Houston, TX",6th,83.95,Blue Stars
+2023-07-21,"Houston, TX",7th,82.1,Colts
+2023-07-21,"Houston, TX",8th,66.05,Seattle Cascades
+2023-07-22,"San Antonio, TX",1st,92.6,Blue Devils
+2023-07-22,"San Antonio, TX",2nd,91.6,Boston Crusaders
+2023-07-22,"San Antonio, TX",3rd,90.95,Bluecoats
+2023-07-22,"San Antonio, TX",4th,90.563,Carolina Crown
+2023-07-22,"San Antonio, TX",5th,87.675,Mandarins
+2023-07-22,"San Antonio, TX",5th,87.675,Phantom Regiment
+2023-07-22,"San Antonio, TX",7th,87.375,The Cadets
+2023-07-22,"San Antonio, TX",8th,85.513,The Cavaliers
+2023-07-22,"San Antonio, TX",9th,84.175,Blue Stars
+2023-07-22,"San Antonio, TX",10th,82.95,Colts
+2023-07-22,"San Antonio, TX",11th,82.938,Troopers
+2023-07-22,"San Antonio, TX",12th,80.475,Pacific Crest
+2023-07-22,"San Antonio, TX",13th,80.138,Blue Knights
+2023-07-22,"San Antonio, TX",14th,78.125,Crossmen
+2023-07-22,"San Antonio, TX",15th,77.438,The Academy
+2023-07-22,"San Antonio, TX",16th,77.175,Madison Scouts
+2023-07-22,"San Antonio, TX",17th,76.3,Spirit of Atlanta
+2023-07-22,"San Antonio, TX",18th,75.4,Music City
+2023-07-22,"San Antonio, TX",19th,72.05,Genesis
+2023-07-22,"San Antonio, TX",20th,67.475,Seattle Cascades
+2023-07-22,"Sewell, NJ",1st,69.25,Jersey Surf
+2023-07-23,"Fairfield, CT",1st,71.85,Jersey Surf
+2023-07-24,"Mesquite, TX",1st,92.25,Carolina Crown
+2023-07-24,"Mesquite, TX",2nd,92.15,Boston Crusaders
+2023-07-24,"Mesquite, TX",3rd,86.0,Blue Stars
+2023-07-24,"Mesquite, TX",4th,84.4,Colts
+2023-07-24,"Mesquite, TX",5th,81.05,Crossmen
+2023-07-24,"Mesquite, TX",6th,80.725,Blue Knights
+2023-07-24,"Mesquite, TX",7th,80.475,Pacific Crest
+2023-07-24,"Mesquite, TX",8th,78.65,Madison Scouts
+2023-07-24,"Mesquite, TX",9th,77.3,Spirit of Atlanta
+2023-07-24,"Mesquite, TX",10th,71.9,Genesis
+2023-07-25,"Manchester, NH",1st,73.8,Jersey Surf
+2023-07-25,"McKinney, TX",1st,92.4,Carolina Crown
+2023-07-25,"McKinney, TX",2nd,88.2,The Cadets
+2023-07-25,"McKinney, TX",3rd,87.75,Mandarins
+2023-07-25,"McKinney, TX",4th,83.2,Troopers
+2023-07-25,"McKinney, TX",5th,81.4,Crossmen
+2023-07-25,"McKinney, TX",6th,78.55,The Academy
+2023-07-25,"McKinney, TX",7th,68.05,Seattle Cascades
+2023-07-26,"Hattiesburg, MS",1st,93.1,Blue Devils
+2023-07-26,"Hattiesburg, MS",2nd,92.1,Boston Crusaders
+2023-07-26,"Hattiesburg, MS",3rd,87.85,Phantom Regiment
+2023-07-26,"Hattiesburg, MS",4th,85.45,Blue Stars
+2023-07-26,"Hattiesburg, MS",5th,80.2,Madison Scouts
+2023-07-26,"Monroe, LA",1st,88.0,Mandarins
+2023-07-26,"Monroe, LA",2nd,87.95,The Cadets
+2023-07-26,"Monroe, LA",3rd,83.7,Troopers
+2023-07-26,"Monroe, LA",4th,80.8,Blue Knights
+2023-07-26,"Monroe, LA",5th,77.5,The Academy
+2023-07-26,"Monroe, LA",6th,76.35,Music City
+2023-07-26,"Monroe, LA",7th,73.25,Genesis
+2023-07-26,"Syracuse, NY",1st,74.9,Jersey Surf
+2023-07-28,"Murfreesboro, TN",1st,92.9,Blue Devils
+2023-07-28,"Murfreesboro, TN",2nd,92.05,Boston Crusaders
+2023-07-28,"Murfreesboro, TN",3rd,91.7,Carolina Crown
+2023-07-28,"Murfreesboro, TN",4th,88.7,Phantom Regiment
+2023-07-28,"Murfreesboro, TN",5th,88.3,The Cadets
+2023-07-28,"Murfreesboro, TN",6th,85.95,Blue Stars
+2023-07-28,"Murfreesboro, TN",7th,77.15,Music City
+2023-07-28,"Trussville, AL",1st,87.2,The Cavaliers
+2023-07-28,"Trussville, AL",2nd,85.35,Colts
+2023-07-28,"Trussville, AL",2nd,85.35,Troopers
+2023-07-28,"Trussville, AL",4th,81.9,Crossmen
+2023-07-28,"Trussville, AL",5th,81.75,Pacific Crest
+2023-07-28,"Trussville, AL",6th,81.7,Blue Knights
+2023-07-28,"Trussville, AL",7th,79.65,Spirit of Atlanta
+2023-07-28,"Trussville, AL",8th,69.7,Seattle Cascades
+2023-07-29,"Atlanta, GA",1st,94.325,Blue Devils
+2023-07-29,"Atlanta, GA",2nd,92.4,Carolina Crown
+2023-07-29,"Atlanta, GA",3rd,92.05,Boston Crusaders
+2023-07-29,"Atlanta, GA",4th,91.975,Bluecoats
+2023-07-29,"Atlanta, GA",5th,89.275,Phantom Regiment
+2023-07-29,"Atlanta, GA",6th,88.925,The Cadets
+2023-07-29,"Atlanta, GA",7th,88.1,The Cavaliers
+2023-07-29,"Atlanta, GA",8th,85.725,Troopers
+2023-07-29,"Atlanta, GA",9th,82.4,Blue Knights
+2023-07-29,"Atlanta, GA",10th,81.475,Pacific Crest
+2023-07-29,"Atlanta, GA",11th,79.85,Spirit of Atlanta
+2023-07-29,"Atlanta, GA",12th,79.8,Madison Scouts
+2023-07-29,"Atlanta, GA",13th,79.25,Music City
+2023-07-30,"Winston-Salem, NC",1st,94.275,Blue Devils
+2023-07-30,"Winston-Salem, NC",2nd,92.95,Bluecoats
+2023-07-30,"Winston-Salem, NC",3rd,92.85,Carolina Crown
+2023-07-30,"Winston-Salem, NC",4th,89.65,The Cadets
+2023-07-30,"Winston-Salem, NC",5th,89.263,Mandarins
+2023-07-30,"Winston-Salem, NC",6th,86.375,Blue Stars
+2023-07-30,"Winston-Salem, NC",7th,85.725,Colts
+2023-07-30,"Winston-Salem, NC",8th,81.675,Crossmen
+2023-07-30,"Winston-Salem, NC",9th,79.5,The Academy
+2023-07-30,"Winston-Salem, NC",10th,75.7,Genesis
+2023-07-30,"Winston-Salem, NC",11th,72.675,Jersey Surf
+2023-07-30,"Winston-Salem, NC",12th,70.975,Seattle Cascades
+2023-07-31,"Huntington, WV",1st,90.9,Phantom Regiment
+2023-07-31,"Huntington, WV",2nd,82.65,Spirit of Atlanta
+2023-07-31,"Huntington, WV",3rd,81.05,Madison Scouts
+2023-07-31,"Huntington, WV",4th,76.6,Genesis
+2023-07-31,"Huntington, WV",5th,71.9,Seattle Cascades
+2023-08-01,"Annapolis, MD",1st,95.2,Blue Devils
+2023-08-01,"Annapolis, MD",2nd,90.9,The Cadets
+2023-08-01,"Annapolis, MD",3rd,90.45,Mandarins
+2023-08-01,"Annapolis, MD",4th,82.95,Blue Knights
+2023-08-01,"Annapolis, MD",5th,73.6,Jersey Surf
+2023-08-01,"Salem, VA",1st,93.75,Carolina Crown
+2023-08-01,"Salem, VA",2nd,87.65,Blue Stars
+2023-08-01,"Salem, VA",3rd,87.4,Troopers
+2023-08-01,"Salem, VA",4th,82.0,Madison Scouts
+2023-08-01,"Salem, VA",5th,73.0,Seattle Cascades
+2023-08-01,"Sevierville, TN",1st,89.1,The Cavaliers
+2023-08-01,"Sevierville, TN",2nd,87.1,Colts
+2023-08-01,"Sevierville, TN",3rd,82.9,Crossmen
+2023-08-01,"Sevierville, TN",4th,82.75,Pacific Crest
+2023-08-01,"Sevierville, TN",5th,80.3,The Academy
+2023-08-01,"Sevierville, TN",6th,79.65,Music City
+2023-08-02,"Centerville, OH",1st,90.25,The Cavaliers
+2023-08-02,"Centerville, OH",2nd,87.7,Colts
+2023-08-02,"Centerville, OH",3rd,84.65,Crossmen
+2023-08-02,"Centerville, OH",4th,83.0,Pacific Crest
+2023-08-02,"Centerville, OH",5th,81.6,The Academy
+2023-08-02,"Centerville, OH",6th,79.85,Music City
+2023-08-02,"Glassboro, NJ",1st,95.25,Bluecoats
+2023-08-02,"Glassboro, NJ",2nd,92.3,The Cadets
+2023-08-02,"Glassboro, NJ",3rd,87.15,Blue Stars
+2023-08-02,"Glassboro, NJ",4th,83.0,Spirit of Atlanta
+2023-08-02,"Glassboro, NJ",5th,82.4,Madison Scouts
+2023-08-02,"Glassboro, NJ",6th,78.0,Genesis
+2023-08-02,"Glassboro, NJ",7th,73.6,Jersey Surf
+2023-08-03,"Lawrence, MA",1st,95.05,Boston Crusaders
+2023-08-03,"Lawrence, MA",2nd,94.7,Bluecoats
+2023-08-03,"Lawrence, MA",3rd,90.9,Mandarins
+2023-08-03,"Lawrence, MA",4th,90.65,Phantom Regiment
+2023-08-04,"Allentown, PA",1st,95.775,Blue Devils
+2023-08-04,"Allentown, PA",2nd,95.25,Bluecoats
+2023-08-04,"Allentown, PA",3rd,91.05,The Cavaliers
+2023-08-04,"Allentown, PA",4th,88.525,Troopers
+2023-08-04,"Allentown, PA",5th,87.55,Blue Stars
+2023-08-04,"Allentown, PA",6th,84.688,Blue Knights
+2023-08-04,"Allentown, PA",7th,83.825,Pacific Crest
+2023-08-04,"Allentown, PA",8th,82.025,The Academy
+2023-08-04,"Allentown, PA",9th,78.275,Genesis
+2023-08-04,"Allentown, PA",10th,74.625,Seattle Cascades
+2023-08-05,"Allentown, PA",1st,95.475,Boston Crusaders
+2023-08-05,"Allentown, PA",2nd,95.438,Carolina Crown
+2023-08-05,"Allentown, PA",3rd,92.125,The Cadets
+2023-08-05,"Allentown, PA",4th,91.988,Mandarins
+2023-08-05,"Allentown, PA",5th,91.975,Phantom Regiment
+2023-08-05,"Allentown, PA",6th,88.163,Colts
+2023-08-05,"Allentown, PA",7th,85.388,Crossmen
+2023-08-05,"Allentown, PA",8th,83.938,Spirit of Atlanta
+2023-08-05,"Allentown, PA",9th,81.913,Madison Scouts
+2023-08-05,"Allentown, PA",10th,80.25,Music City
+2023-08-05,"Allentown, PA",11th,74.975,Jersey Surf
+2023-08-06,"Pittsburgh, PA",1st,96.125,Blue Devils
+2023-08-06,"Pittsburgh, PA",2nd,95.725,Carolina Crown
+2023-08-06,"Pittsburgh, PA",3rd,91.05,The Cavaliers
+2023-08-06,"Pittsburgh, PA",4th,84.8,Blue Knights
+2023-08-06,"Pittsburgh, PA",5th,83.85,Spirit of Atlanta
+2023-08-06,"Pittsburgh, PA",6th,74.75,Seattle Cascades
+2023-08-07,"Cincinnati, OH",1st,92.225,Mandarins
+2023-08-07,"Cincinnati, OH",2nd,91.6,The Cavaliers
+2023-08-07,"Cincinnati, OH",3rd,89.0,Colts
+2023-08-07,"Cincinnati, OH",4th,86.15,Blue Knights
+2023-08-07,"Cincinnati, OH",5th,82.8,Madison Scouts
+2023-08-07,"Cincinnati, OH",6th,82.65,The Academy
+2023-08-10,"Indianapolis, IN",1st,97.688,Blue Devils
+2023-08-10,"Indianapolis, IN",2nd,96.975,Carolina Crown
+2023-08-10,"Indianapolis, IN",3rd,96.688,Bluecoats
+2023-08-10,"Indianapolis, IN",4th,96.3,Boston Crusaders
+2023-08-10,"Indianapolis, IN",5th,93.688,The Cadets
+2023-08-10,"Indianapolis, IN",6th,93.363,Mandarins
+2023-08-10,"Indianapolis, IN",7th,92.675,Phantom Regiment
+2023-08-10,"Indianapolis, IN",8th,91.788,The Cavaliers
+2023-08-10,"Indianapolis, IN",9th,90.175,Colts
+2023-08-10,"Indianapolis, IN",10th,89.363,Blue Stars
+2023-08-10,"Indianapolis, IN",11th,89.163,Troopers
+2023-08-10,"Indianapolis, IN",12th,86.65,Blue Knights
+2023-08-10,"Indianapolis, IN",13th,86.338,Crossmen
+2023-08-10,"Indianapolis, IN",14th,85.0,Pacific Crest
+2023-08-10,"Indianapolis, IN",15th,84.838,Spirit of Atlanta
+2023-08-10,"Indianapolis, IN",16th,83.525,Madison Scouts
+2023-08-10,"Indianapolis, IN",17th,82.588,Music City
+2023-08-10,"Indianapolis, IN",17th,82.588,The Academy
+2023-08-10,"Indianapolis, IN",21st,79.088,Genesis
+2023-08-10,"Indianapolis, IN",23rd,76.238,Jersey Surf
+2023-08-10,"Indianapolis, IN",25th,76.05,Seattle Cascades
+2023-08-11,"Indianapolis, IN",1st,98.275,Blue Devils
+2023-08-11,"Indianapolis, IN",2nd,96.988,Bluecoats
+2023-08-11,"Indianapolis, IN",3rd,96.95,Carolina Crown
+2023-08-11,"Indianapolis, IN",4th,96.738,Boston Crusaders
+2023-08-11,"Indianapolis, IN",5th,93.613,The Cadets
+2023-08-11,"Indianapolis, IN",6th,93.35,Mandarins
+2023-08-11,"Indianapolis, IN",7th,93.163,Phantom Regiment
+2023-08-11,"Indianapolis, IN",8th,92.038,The Cavaliers
+2023-08-11,"Indianapolis, IN",9th,90.038,Colts
+2023-08-11,"Indianapolis, IN",10th,88.725,Troopers
+2023-08-11,"Indianapolis, IN",11th,88.55,Blue Stars
+2023-08-11,"Indianapolis, IN",12th,87.088,Blue Knights
+2023-08-11,"Indianapolis, IN",13th,86.138,Crossmen
+2023-08-11,"Indianapolis, IN",14th,85.05,Pacific Crest
+2023-08-11,"Indianapolis, IN",15th,83.625,Spirit of Atlanta
+2023-08-11,"Indianapolis, IN",16th,82.988,Madison Scouts
+2023-08-11,"Indianapolis, IN",17th,82.875,Music City
+2023-08-11,"Indianapolis, IN",18th,82.5,The Academy
+2023-08-11,"Indianapolis, IN",21st,78.775,Genesis
+2023-08-11,"Indianapolis, IN",23rd,75.488,Jersey Surf
+2023-08-11,"Indianapolis, IN",25th,73.925,Seattle Cascades
+2023-08-12,"Indianapolis, IN",1st,98.975,Blue Devils
+2023-08-12,"Indianapolis, IN",2nd,97.738,Bluecoats
+2023-08-12,"Indianapolis, IN",3rd,97.663,Carolina Crown
+2023-08-12,"Indianapolis, IN",4th,96.925,Boston Crusaders
+2023-08-12,"Indianapolis, IN",5th,94.313,The Cadets
+2023-08-12,"Indianapolis, IN",6th,93.775,Mandarins
+2023-08-12,"Indianapolis, IN",7th,92.988,Phantom Regiment
+2023-08-12,"Indianapolis, IN",8th,92.125,The Cavaliers
+2023-08-12,"Indianapolis, IN",9th,90.263,Colts
+2023-08-12,"Indianapolis, IN",10th,89.475,Troopers
+2023-08-12,"Indianapolis, IN",11th,88.625,Blue Stars
+2023-08-12,"Indianapolis, IN",12th,86.375,Blue Knights
